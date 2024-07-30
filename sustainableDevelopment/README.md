@@ -1,3 +1,5 @@
+# Explicação em vídeo: [Investigando redes de co-Autoria e ODS-ONU](https://www.youtube.com/watch?v=XYfHKDqaweQ)
+
 ## Introdução
 
 Neste trabalho, investigaremos as redes de coautoria e os Objetivos de Desenvolvimento Sustentável (ODS) da ONU, especificamente os seguintes objetivos:
