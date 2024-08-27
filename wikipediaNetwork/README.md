@@ -1,7 +1,7 @@
 # [Wikipedia Network](https://obyick.github.io/dataStructures_2/)
 
 ## Explicação do trabalho em vídeo:
- - [Loom](https://github.com/obyick)
+ - [Loom](https://www.loom.com/share/0d015502d6164cb6b1cda5b70c20265f?sid=d75e6b6b-e949-4790-878f-a15cb3df9f8e)
 
 ## Requisito 1
 - Gerar uma `rede` dirigida a partir dos links das páginas do `Wikipédia` considerando a fusão de 3 `SEEDs`
