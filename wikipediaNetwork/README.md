@@ -28,27 +28,27 @@ Notebooks:
 ### Paleta de Cores
 <img src="Assets/Images/Gephi/palette.png" alt="Palette" width="300"/>
 
-Paleta de cores, aonde quanto mais vermelho, maior o valor do atributo.
+Uma paleta de cores onde a intensidade do vermelho indica o aumento do valor do atributo.
 
 ### Degree Centrality
 <img src="Assets/Images/Gephi/degree_centrality.png" alt="Degree Centrality" width="600"/>
 
-O *Degree Centrality* é a métrica que conta o número de conexões do nó.
+O *Degree Centrality* é a métrica que contabiliza o número de conexões de um nó.
 
 ### Closeness Centrality
 <img src="Assets/Images/Gephi/closeness_centrality.png" alt="Closeness Centrality" width="600"/>
 
-O *Closeness Centrality* é a distância média de um nó para os outros nós.
+O *Closeness Centrality* mede a distância média de um nó para todos os outros nós.
 
 ### Betweenness Centrality
 <img src="Assets/Images/Gephi/betweenness_centrality.png" alt="Betweenness Centrality" width="600"/>
 
-O *Betweenness Centrality* mede o menor caminho entre um nó e outro na `rede`.
+O *Betweenness Centrality* avalia o menor caminho entre um nó e outro dentro `rede`.
 
 ### Eigenvector Centrality
 <img src="Assets/Images/Gephi/eigenvector_centrality.png" alt="Eigenvector Centrality" width="600"/>
 
-O *Eigenvector Centrality* mede o quão um nó possui vizinhos importantes.
+O *Eigenvector Centrality* quantifica a importância de um nó com base na importância de seus vizinhos.
 
 </div>
 
@@ -58,14 +58,14 @@ O *Eigenvector Centrality* mede o quão um nó possui vizinhos importantes.
 <div align="center">
 
 ### Probability Density Function
-<img src="Assets/Images/probability.png" alt="Probability Density Function" width="600"/>
+<img src="Assets/Images/Function/probability.jpg" alt="Probability Density Function" width="600"/>
 
-A Probability Density Function é uma função matemática usada na computação e análise de dados para descrever a probabilidade de uma variável aleatória contínua assumir diferentes valores.
+A Probability Density Function é uma função matemática que descreve a probabilidade de uma variável contínua assumir diferentes valores.
 
 ### Cumulative Density Function
-<img src="Assets/Images/cumulative.png" alt="Cumulative Density Function" width="600"/>
+<img src="Assets/Images/Function/cumulative.jpg" alt="Cumulative Density Function" width="600"/>
 
-A Cumulative Distribution Function é uma função que mostra a probabilidade acumulativa de uma variável aleatória ser menor ou igual a um valor específico.
+A Cumulative Distribution Function é uma função que apresenta a probabilidade acumulada de uma variável aleatória ser menor ou igual a um valor específico.
 
 </div>
 
